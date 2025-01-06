@@ -1,4 +1,4 @@
-#<p align="center">
+<p align="center">
   <h3 align="center"><strong>JAXOPT: <br>NLLS and IRLS in JAX</strong></h3>
 
 <p align="center">
@@ -83,13 +83,7 @@ Currently supported:
   - Sparse direct with Cholesky / CHOLMOD, on CPU.
   - Dense Cholesky for smaller problems.
 
-For the first iteration of this library, written for [IROS 2021](https://github.com/brentyi/dfgo), see
-[jaxfg](https://github.com/brentyi/jaxfg). `jaxopt` is a rewrite that is faster
-and easier to use. For additional references, see inspirations like
-[GTSAM](https://gtsam.org/), [Ceres Solver](http://ceres-solver.org/),
-[minisam](https://github.com/dongjing3309/minisam),
-[SwiftFusion](https://github.com/borglab/SwiftFusion),
-[g2o](https://github.com/RainerKuemmerle/g2o).
+
 
 ### Installation
 
