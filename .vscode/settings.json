@@ -1,0 +1,10 @@
+{
+    "python.languageServer": "None",
+    "terminal.integrated.profiles.linux": {
+        "tmux": {
+            "path": "bash",
+            "args": ["-c", "tmux attach -t jaxls"],
+            "icon": "terminal-tmux"
+        }
+    }
+}
